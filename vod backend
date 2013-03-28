@@ -1,0 +1,89 @@
+Back end view:-
+1)  Modules:-
+	Users:-
+•	All users: - By clicking on all users, it has to show the all the users, and by clicking on every user it has to show the following information.
+	Full name.
+	Email id.
+	Phone number.
+	Address.
+	Occupation.
+	Subscription plans.
+	Transactions.
+o	Billing history:
+In the billing history it has to show the customer name, customer id date, time and type of recharge.
+o	Current bill details:
+Here it has to show the day to day updated transaction bill.
+	Edit user.
+o	Hold.
+o	Deactivate and remove.
+•	Active users (content same as above).
+•	Inactive users (content same as above).
+•	Add /remove a group.
+
+	Movies: - By selecting movies it has to show the different categories. By selecting a particular movie from the particular category it has to show the 
+•	Genres: After selecting a particular genre it has to show the all movies in it in the thumbnail form. 
+•	Image of the movie:- By clicking on the image it has to show all the details of 
+o	About the movie.
+o	Artists in the movie.
+o	Review.
+o	Cost of the movie.
+o	Movie brought from.
+	Rating: - Here it has to show the rating depending on the average of total ratings given by viewers or by the administrators.
+	Censor board film certification.
+	Add a movie.
+	Delete a movie.
+
+
+
+
+•	Edit a genre.
+	Add a new genre.
+	Remove a genre.
+
+	Subscriptions :-
+•	Subscription index:-
+	Plan name: Here it has to show all the customers who activated the particular plan and for every user in the particular plan it has to show
+o	Username.
+o	Created at.
+o	Expired at.
+o	Status.
+•	Edit subscription.
+	Add a new plan: Here by adding a new plan, they can add some number of films for particular price or they can give special price for particular movie or special offers on price and validity.
+	Remove a plan: By removing a plan it has to delete all the data stored within the plan.
+	Settings:-
+•	Media settings.
+	Image sizes.
+	Video player settings.
+•	Page settings.
+	Show pages in video section (editable).
+	Show pages in images section (editable).
+	Pages edit.
+	Group edit.
+•	Component settings.
+	Registrations.
+	Registration messages.
+	Login/logout.
+	Upload.
+	Last viewed settings.
+	Genre settings.
+	Download settings.
+
+
+
+•	Player settings.
+	Full screen mode.
+	Auto load media.
+	Information button.
+	Color of the player.
+•	Advertisement settings.
+	Advertisement in the header.
+	Advertisement in the menu.
+	Advertisement over content area.
+	Advertisement under content area.
+	Advertisement in footer.
+•	Payment PayPal settings.
+	Payment provider (activate/deactivate).
+	Global payment functions.
+	Currency ratio.
+	Subscription payment portal.
+
